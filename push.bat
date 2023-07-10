@@ -1,3 +1,7 @@
+echo 确认上传吗?
+
+pause
+
 git init
 
 git add .
