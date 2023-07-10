@@ -3,11 +3,11 @@ bgm:s_Title.mp3;
 unlockBgm:s_Title.mp3 -name=雲を追いかけて;
 intro:『你好|欢迎来到小像素点的世界』;
 changeBg:bg.png -next;
-unlockCg:bg.png -name=良夜; // 解锁CG并赋予名称
+unlockCg:bg.png -name=良夜;
 changeFigure:none -left -next;
 setAnimation:enter-from-left -target=fig-left -next;
 pixiPerform:rain;
 小黑点:欢迎来到像素点的世界,我是这个世界上的第一个像素点;
-接下来你可以进入像素点的历史,跟我一起来吧. -v1.wav;
-choose:我想粗略的了解像素点的历史:历史.txt|哦不,我不想了解:现代.txt;
+接下来你可以进入像素点的历史,跟我一起来吧.;
+choose:我想粗略的了解像素点的历史:history.txt|哦不,我不想了解:newtime.txt;
 setTextbox:hide;
