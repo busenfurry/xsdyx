@@ -1,0 +1,5 @@
+pixiInit;
+intro:小像素点的历史|还要从像素元年说起;
+setAnimation:enter-from-bottom -target=bg-main -next;
+changeBg:WebGAL_New_Enter_Image.png -next;
+:像素元年 第一只像素点诞生(背景图1);
