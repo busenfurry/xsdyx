@@ -1,4 +1,4 @@
-echo ç¡®è®¤ä¸Šä¼ å—?
+echo È·ÈÏÉÏ´«Âğ?
 
 pause
 
@@ -6,10 +6,12 @@ git init
 
 git add .
 
-git commit -m â€œuploadâ€
+git commit -m ¡°upload¡±
 
 git remote add origin https://github.com/baymax1470/pixelgame.git   
                                    
 git push -u origin main 
+
+echo ÇëÈ·ÈÏÉÏ´«×´Ì¬
 
 pause
