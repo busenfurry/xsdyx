@@ -1,3 +1,4 @@
 changeFigure: -next;
 薄尔荷斯:这是哪.....;
 choose:选项:选择场景文件|选项:选择场景文件;
+miniAvatar:选择小头像;
