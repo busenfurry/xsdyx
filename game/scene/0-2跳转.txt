@@ -1,3 +1,3 @@
 小黑点:对了,你得知道这个;
 intro:像素元年|第一只像素点诞生|像素1822年|薄尔荷斯加入晨曦;
-changeScene:newtime.txt
+changeScene:1-0 第一章 丁国地下区 序.txt

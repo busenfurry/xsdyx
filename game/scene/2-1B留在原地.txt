@@ -1,0 +1,6 @@
+changeBg:bg.png;
+bgm:none;
+changeFigure:mt.png -left -next;
+棉题:好，走吧。 
+changeFigure: -left -next;
+:试纸不清楚棉题做什么，愣了愣便跟着它走了;

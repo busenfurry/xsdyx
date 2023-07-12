@@ -3,4 +3,4 @@ changeBg:bg.png;
 changeFigure:mt.png -left -next;
 棉题:这是哪.....;
 我要四处走走吗;
-choose:去看看:四处走走.txt|不了,留在原地:选择场景文件;
+choose:去看看:1-1四处走走.txt|不了,留在原地:1-2留在原地.txt;

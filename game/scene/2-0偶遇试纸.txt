@@ -19,4 +19,4 @@ changeFigure:sz.png -right -next -id=sz3;
 changeFigure: -next -id=sz3;
 changeFigure:mt.png -left -next -id=mt4;
 棉题:要和她去吗;
-choose:和她一同前往:选择场景文件|不前往.等待:选择场景文件;
+choose:和她一同前往:2-1B留在原地.txt|不前往.等待:选择场景文件;

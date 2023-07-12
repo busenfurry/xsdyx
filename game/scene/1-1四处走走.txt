@@ -7,4 +7,4 @@ changeFigure:mt.png -left -next;
 要做什么来着？
 她想四处走走想一下。;
 哦,那是谁?;
-changeScene:偶遇试纸.txt
+changeScene:2-0偶遇试纸.txt

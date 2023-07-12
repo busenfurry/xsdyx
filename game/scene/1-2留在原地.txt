@@ -4,4 +4,4 @@ changeFigure:QQ图片20230712160140.png -left;
 它想起来，它做实验的时候被叫过来。
 要做什么来着？;
 哦,那是谁?;
-changeScene:偶遇试纸.txt
+changeScene:2-0偶遇试纸.txt
