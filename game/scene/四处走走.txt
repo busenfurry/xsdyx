@@ -1,5 +1,10 @@
+bgm:s_Title.mp3;
+changeBg:bg.png;
+changeFigure:mt.png -left -next;
 棉题:棉题四处走动。
 现在似乎处于地下区组织中心。
 它想起来，它做实验的时候被叫过来。
 要做什么来着？
 她想四处走走想一下。;
+哦,那是谁?;
+changeScene:偶遇试纸.txt

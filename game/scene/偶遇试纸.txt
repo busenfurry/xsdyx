@@ -1,0 +1,22 @@
+changeBg:bg.png;
+bgm:s_Title.mp3;
+:棉题转过头，差些撞到试纸。
+changeFigure:none;
+changeFigure:sz.png -right -next -id=sz1;
+试纸:（慌乱）抱歉，棉题小姐！;
+changeFigure: -left -next -id=sz1;
+changeFigure:mt.png -left -next -id=mt1;
+:棉题看着眼前试纸手里的工具袋，有些发愣。;
+changeFigure: -right -next -id=mt1;
+changeFigure:sz.png -right -next -id=sz2;
+试纸:嗯？您怎么了？;
+changeFigure: -left -next -id=sz2;
+changeFigure:mt.png -left -next -id=mt2;
+棉题:没什么，试纸你告诉我，现在我们要去做什么？;
+changeFigure: -next -id=mt2;
+changeFigure:sz.png -right -next -id=sz3;
+试纸:我们要去中心试用向外界的电话，小姐。;
+changeFigure: -next -id=sz3;
+changeFigure:mt.png -left -next -id=mt4;
+棉题:要和她去吗;
+choose:和她一同前往:选择场景文件|不前往.等待:选择场景文件;
