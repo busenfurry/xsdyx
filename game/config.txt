@@ -2,4 +2,4 @@ Game_name:欢迎来到小像素点的世界！;
 Game_key:xxsd086znb456tlh;
 Package_name:pixel;
 Title_bgm:s_Title.mp3;
-Title_img:WebGAL_New_Enter_Image.png;
+Title_img:bg.png;
